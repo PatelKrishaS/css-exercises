@@ -1,9 +1,9 @@
 /* Add CSS Styling */
-#first{
+.first{
     background-color: black;
     color: white;
 }
 
-#second{
+.second{
     background-color: #ffff00;
 }
